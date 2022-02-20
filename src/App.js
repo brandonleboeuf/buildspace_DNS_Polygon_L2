@@ -204,7 +204,7 @@ const App = () => {
 	// Render Methods
 	const renderNotConnectedContainer = () => (
 		<div className="connect-wallet-container">
-			<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="Ninja donut gif" />
+			<img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" alt="Hacker gif" />
 			{/* Call the connectWallet function we just wrote when the button is clicked */}
 			<button onClick={connectWallet} className="cta-button connect-wallet-button">
 				Connect Wallet
